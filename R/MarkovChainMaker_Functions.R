@@ -919,10 +919,10 @@ si devono installare i seguenti pacchetti:
 ")
   }
 
-  install.packages("markovchain") ###
-  library(markovchain)            ###  PUEDE SER SUPLANTADO SI SE
-  install.packages("expm")        ###. IMPORTA DIRECTAMENTE CON EL PAQUETE
-  library(expm)                   ###
+  #install.packages("markovchain")
+  #library(markovchain)              PUEDE SER SUPLANTADO SI SE
+  #install.packages("expm")          IMPORTA DIRECTAMENTE CON EL PAQUETE
+  #library(expm)
 
   if ( MI_IDIOMA_ACTUAL == IDIOMAS[1] ) {
     cat("---------------------------------------------------------------------------------------
@@ -1540,7 +1540,7 @@ Per favore, definire prima una Catena di Markov
           cat("---------------------------------------------------------------------------------------
 Hasta pronto usuario:",Usuario,"
 ---------------------------------------------------------------------------------------
-Desinstalando paquetes:
+Recuerde que los paquetes preinstalados son :
   - markovchain
   - expm
 ---------------------------------------------------------------------------------------
@@ -1549,7 +1549,7 @@ Desinstalando paquetes:
           cat("---------------------------------------------------------------------------------------
 See you soon user:",Usuario,"
 ---------------------------------------------------------------------------------------
-Uninstalling packages:
+Remember that pre-installed packages are :
   - markovchain
   - expm
 ---------------------------------------------------------------------------------------
@@ -1558,17 +1558,17 @@ Uninstalling packages:
           cat("---------------------------------------------------------------------------------------
 A presto utente:",Usuario,"
 ---------------------------------------------------------------------------------------
-Disinstallazione dei pacchetti:
+Ricorda che i pacchetti preinstallati sono :
   - markovchain
   - expm
 ---------------------------------------------------------------------------------------
   ")
         }
 
-        detach("package:markovchain", unload = TRUE)
-        remove.packages("markovchain")
-        detach("package:expm", unload = TRUE)
-        remove.packages("expm")
+        #detach("package:markovchain", unload = TRUE)
+        #remove.packages("markovchain")
+        #detach("package:expm", unload = TRUE)
+        #remove.packages("expm")
         break
 
       }else{
