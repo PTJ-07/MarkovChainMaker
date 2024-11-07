@@ -13,3 +13,5 @@ Depends:
   R (>= 4.3.3),
   expm (>= 1.0),
   markovchain (>= 0.9.5)
+URL: https://github.com/PTJ-07/MarkovChainMaker
+BugReports: https://github.com/PTJ-07/MarkovChainMaker/issues
