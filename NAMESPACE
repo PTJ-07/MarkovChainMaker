@@ -1,0 +1,9 @@
+
+import(expm)
+import(markovchain)
+export(CADENA_DE_MARKOV)
+export(CREACION_DE_CADENA_DE_MARKOV)
+export(OPERACIONES)
+export(RESULTADOS)
+export(is_true)
+export(SELECCIONAR_IDIOMA)
