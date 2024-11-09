@@ -287,7 +287,7 @@ Pablo Torres Jiménez, Carlos III student of 4th year Statistics and Business De
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.md` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
