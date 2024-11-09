@@ -294,11 +294,11 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 <!-- CONTACT -->
 ## Contact
 
-* [![Mi_Linkedin][mi_linkedin-shield]][linkedin-url] : Professional use
+* [![Mi_Linkedin][mi_linkedin-shield]][linkedin-url]  :  Professional use
 
-* [![Mi_GitHub][mi_github.com]][mi_github-url] : Academic use
+* [![Mi_GitHub][mi_github.com]][mi_github-url]  :  Academic use
 
-* ![Mi_Gmail][mi_gmail.com] : Personal use
+* ![Mi_Gmail][mi_gmail.com]  :  Personal use
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
