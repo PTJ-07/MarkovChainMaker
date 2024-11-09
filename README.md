@@ -347,7 +347,7 @@ Si noti che è necessario tenere in considerazione che :
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <br />
-<b>LAST UPDATE</b> : `9 November 2024`
+<b>LAST UPDATE</b> : `9_November_2024`
 <br />
 <br />
 
