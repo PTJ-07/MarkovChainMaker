@@ -353,7 +353,7 @@ Si noti che è necessario tenere in considerazione che :
 [linkedin-url]: https://www.linkedin.com/in/pablo-torres-jiménez-629349269/
 
 [license-shield]: https://img.shields.io/github/license/PTJ-07/MarkovChainMaker.svg?style=for-the-badge
-[license-url]: https://github.com/PTJ-07/MarkovChainMaker/blob/master/LICENSE.md#mit-license
+[license-url]: https://github.com/PTJ-07/MarkovChainMaker/blob/master/LICENSE
 
 [forks-shield]: https://img.shields.io/github/forks/PTJ-07/MarkovChainMaker.svg?style=for-the-badge
 [forks-url]: https://github.com/PTJ-07/MarkovChainMaker/network/members
