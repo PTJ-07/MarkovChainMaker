@@ -342,7 +342,6 @@ Si noti che è necessario tenere in considerazione che :
 * ( Considerazioni future )
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <br />
 <b>LAST UPDATE</b> : `9_November_2024`
 <br />
