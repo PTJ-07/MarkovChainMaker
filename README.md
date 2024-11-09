@@ -272,20 +272,13 @@ Esempio: `?RESULTADOS_italiano`.
 
 Pablo Torres Jiménez, Carlos III student of 4th year Statistics and Business Degree ( 2024 )
 
-<style>
-.imagen-redonda {
-  border-radius: 50%;
-  border: 6px solid #0077B5;
-}
-</style>
-
 <br />
 <div align="left">
   <a href="https://www.linkedin.com/in/pablo-torres-jiménez-629349269/">
-    <img src="ME/ME_1_SF.png" alt="Logo" width="220" height="200" class="imagen-redonda">
+    <img src="ME/ME_1_SF.png" alt="Logo" width="220" height="200" >
   </a>
   <a href="https://www.uc3m.es/bachelor-degree/statistics-business">
-    <img src="INSTITUCION_PT/Logo_UC3M.png" alt="Logo" width="220" height="200" class="imagen-redonda">
+    <img src="INSTITUCION_PT/Logo_UC3M.png" alt="Logo" width="220" height="200" >
   </a>
 </div>
 
