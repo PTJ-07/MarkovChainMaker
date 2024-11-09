@@ -301,6 +301,7 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 * ![Mi_Gmail][mi_gmail.com] : Personal use
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- CONSIDERATIONS-->
 ## Considerations
 
